@@ -2,7 +2,7 @@
 
 **[Live demo](https://mdamiruddin-3dportfolio.vercel.app)**
 
-This is the modification of **[Bokoko33's Portfolio](https://bokoko33.me/)** Website Code. The original creator asks to please not use this exact idea,
+This is the modification of **[Bokoko33's Portfolio](https://bokoko33.me/)** Website Code. Please Do not use this exact idea,
 but feel free to use it as a starting point/inspiration.
 
 ![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
